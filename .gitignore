@@ -1,0 +1,23 @@
+.env
+*.env
+__pycache__/
+.venv/
+flutter_application_1/build/
+
+# Flutter
+.dart_tool/
+.packages
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Android
+android/app/.gradle/
+
+# iOS
+ios/.symlinks/
+
+# Python
+ai_chatbot_backend/__pycache__/
+ai_chatbot_backend/.env
